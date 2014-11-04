@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BoundedBufferMonitor/BoundedBufferMonitor.iml" filepath="$PROJECT_DIR$/BoundedBufferMonitor/BoundedBufferMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BoundedBufferSemaphore/BoundedBufferSemaphore.iml" filepath="$PROJECT_DIR$/BoundedBufferSemaphore/BoundedBufferSemaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiningPhilosophersConditionLock/DiningPhilosophersConditionLock.iml" filepath="$PROJECT_DIR$/DiningPhilosophersConditionLock/DiningPhilosophersConditionLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiningPhilosophersMonitor/DiningPhilosophersMonitor.iml" filepath="$PROJECT_DIR$/DiningPhilosophersMonitor/DiningPhilosophersMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiningPhilosophersSemaphore/DiningPhilosophersSemaphore.iml" filepath="$PROJECT_DIR$/DiningPhilosophersSemaphore/DiningPhilosophersSemaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HardwareLockSim/HardwareLockSim.iml" filepath="$PROJECT_DIR$/HardwareLockSim/HardwareLockSim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JF_SyncDemo0/JF_SyncDemo0.iml" filepath="$PROJECT_DIR$/JF_SyncDemo0/JF_SyncDemo0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JF_SyncDemo1/JF_SyncDemo1.iml" filepath="$PROJECT_DIR$/JF_SyncDemo1/JF_SyncDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JF_SyncDemo2/JF_SyncDemo2.iml" filepath="$PROJECT_DIR$/JF_SyncDemo2/JF_SyncDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PetersonSolution/PetersonSolution.iml" filepath="$PROJECT_DIR$/PetersonSolution/PetersonSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadersWritersMonitor/ReadersWritersMonitor.iml" filepath="$PROJECT_DIR$/ReadersWritersMonitor/ReadersWritersMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadersWritersSemaphore/ReadersWritersSemaphore.iml" filepath="$PROJECT_DIR$/ReadersWritersSemaphore/ReadersWritersSemaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaphore/Semaphore.iml" filepath="$PROJECT_DIR$/Semaphore/Semaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4.iml" filepath="$PROJECT_DIR$/Week4.iml" />
+    </modules>
+  </component>
+</project>
+
